@@ -1,7 +1,7 @@
 # JOGUINHO-DO-MARIO
 
 
-<img src="./img/foto.jpg" width="100px" alt="foto wanderson"/><br>
+<img src="./images/logo-mario.jpg" width="400px" alt="foto "/><br>
 
 
 ### Ajustes e melhorias
@@ -38,7 +38,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
      <td align="center">
       <a href="#">
-        <img src="./assets/foto.wanderson.png" width="100px" alt="foto wanderson"/><br>
+      <img src="./images/foto.jpg" width="100px" alt="foto wanderson"/><br>><br>
         <sub>
           <b>wanderson de farias</b>
         </sub>
