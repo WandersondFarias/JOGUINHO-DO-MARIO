@@ -13,6 +13,7 @@ O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
 
 - [x] Criação do HTML
 - [x] Criação do CSS
+- [x] Criação do javascript 
 
 
 
